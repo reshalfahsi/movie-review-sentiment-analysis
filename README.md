@@ -26,9 +26,9 @@ Test | 85.6% | 0.454
 
 ### Accuracy and Loss Curve
 
- <p align="center"> <img src="https://github.com/reshalfahsi/movie-review-sentiment-analysis/blob/master/assets/accuracy_curve.png" alt="acc_curve" > Accuracy curve on the train set and the validation set. </p>
+ <p align="center"> <img src="https://github.com/reshalfahsi/movie-review-sentiment-analysis/blob/master/assets/accuracy_curve.png" alt="acc_curve" > <br /> Accuracy curve on the train set and the validation set. </p>
  
-  <p align="center"> <img src="https://github.com/reshalfahsi/movie-review-sentiment-analysis/blob/master/assets/loss_curve.png" alt="loss_curve" > Loss curve on the train set and the validation set. </p>
+  <p align="center"> <img src="https://github.com/reshalfahsi/movie-review-sentiment-analysis/blob/master/assets/loss_curve.png" alt="loss_curve" > <br /> Loss curve on the train set and the validation set. </p>
 
 ### CNN Visualization
 
