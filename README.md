@@ -32,7 +32,7 @@ Test | 85.6% | 0.454
 
 ### CNN Visualization
 
-To understand what CNN sees in deciding whether it is a positive or negative opinion, the GradCAM visualization technique is employed.
+To understand what CNN sees in deciding whether it is a positive or negative opinion, the GradCAM and TAHV visualization techniques are employed.
 
 #### Positive Review
 
