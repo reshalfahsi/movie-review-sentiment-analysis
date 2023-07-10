@@ -1,5 +1,9 @@
 # Movie Review Sentiment Analysis Using CNN and MLP
 
+ <div align="center">
+    <a href="https://colab.research.google.com/github/reshalfahsi/movie-review-sentiment-analysis/blob/master/Movie_Review_Sentiment_Analysis_Using_CNN_and_MLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+ </div>
+
 
  <p align="center"> <img src="https://github.com/reshalfahsi/movie-review-sentiment-analysis/blob/master/assets/cnn-mlp-white.png" alt="CNN-MLP" > A diagram of the CNN-MLP model. </p>
 
