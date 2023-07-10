@@ -2,6 +2,7 @@
 
  <div align="center">
     <a href="https://colab.research.google.com/github/reshalfahsi/movie-review-sentiment-analysis/blob/master/Movie_Review_Sentiment_Analysis_Using_CNN_and_MLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+    <br />
  </div>
 
 
